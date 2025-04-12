@@ -1,4 +1,4 @@
-# Finals Lab Task 2: MySQL Database Creation
+# Finals Lab Task 2: [MySQL Database Creation](https://github.com/user-attachments/files/19716288/FINAL.LAB.TASK.2.pdf)
 This portfolio showcases my comprehension of MySQL database development through the implementation of a basic student assignment submission system. It details the systematic construction of tables for students, assignments, and their corresponding submissions. The activity emphasizes the application of appropriate data types, relational structures, and constraints. These include primary keys, foreign keys, and composite keys to design a fully operational relational database schema.
 
 ## Step By Step Process
