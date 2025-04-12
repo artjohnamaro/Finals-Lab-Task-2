@@ -31,6 +31,15 @@ This portfolio showcases my comprehension of MySQL database development through 
 
 - Add Foreign Key constraints on username and shortname, referencing the student and assignment tables respectively, to maintain referential integrity.
 
+Relationships:
+
+- Many-to-One with student: Each submission belongs to one student.
+
+- Many-to-One with assignment: Each submission is for one assignment.
+
+- This models a Many-to-Many relationship between students and assignments, with version tracking multiple submissions.
+
+
 ## QUERY STATEMENT
 1. STUDENT TABLE
    - ![Image](https://github.com/user-attachments/assets/d043963f-5614-476c-8363-a2b0b1dd4ab8)
